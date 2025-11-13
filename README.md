@@ -26,8 +26,8 @@ Atualmente estudo **Análise e Desenvolvimento de Sistemas** na FACENS.
 
 ### 📊 Estatísticas
 <p align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Brenogsilva01&show_icons=true&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brenogsilva01&layout=compact&theme=tokyonight"/>
 </p>
 
 ---
