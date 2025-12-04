@@ -51,7 +51,3 @@ Atualmente estudo **Análise e Desenvolvimento de Sistemas** na FACENS.
 - 🔗 Linktree: [https://linktr.ee/Brenogsilva01](https://linktr.ee/Brenogsilva01)
 
 ---
-
-<p align="center">
-  Feito com ❤️ por Breno Garcia da Silva
-</p>
