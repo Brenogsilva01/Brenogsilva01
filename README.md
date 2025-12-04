@@ -39,7 +39,7 @@ Estou em busca de uma oportunidade de **estágio em desenvolvimento (Java, Web o
 
 ---
 
-## 🚀 Projetos (adicione seus repositórios)
+## 🚀 Projetos
 
 > Coloque seus projetos aqui — isso fortalece MUITO seu perfil.
 
