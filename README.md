@@ -43,7 +43,8 @@ Estou em busca de uma oportunidade de **estágio em desenvolvimento (Java, Web o
 
 - 🔹 **CRUD em Java + MySQL** — (https://github.com/Brenogsilva01/Farmacia)
 - 🔹 **Sistema de Cadastro Veiculos POO em Java** — (https://github.com/Brenogsilva01/testeprojeto)
-- 🔹 **Experimentos com GenAI / automações** — (Em desenvolvimento) 
+- 🔹 **Experimentos com GenAI / automações** — (Em desenvolvimento)
+- 🔹 **Spring Java + React** — (Em desenvolvimento) 
 - 🔹 **Projetos Web** — (https://github.com/Brenogsilva01/Joga.AI-Trabalho-UPXII-)
   
 ---
