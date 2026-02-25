@@ -7,7 +7,7 @@
 ## 👨‍💻 Sobre mim
 
 Me chamo **Breno Garcia da Silva**, tenho 24 anos e sou de Salto/SP.  
-Atualmente curso **Análise e Desenvolvimento de Sistemas (2º semestre) na FACENS** e venho construindo minha jornada no mundo do desenvolvimento. Tenho maior afinidade com **Java**, mas também estudo **JavaScript, desenvolvimento web e banco de dados**.
+Atualmente curso **Análise e Desenvolvimento de Sistemas (3º semestre) na FACENS** e venho construindo minha jornada no mundo do desenvolvimento. Tenho maior afinidade com **Java**, mas também estudo **JavaScript, desenvolvimento web e banco de dados**.
 
 Sou curioso por tecnologia e busco constantemente aprender novos conceitos — recentemente tenho me aprofundado em **Inteligência Artificial/GenAI**, explorando modelos, automações e ferramentas voltadas à produtividade e criação de soluções inteligentes.
 
