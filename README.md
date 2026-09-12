@@ -1,145 +1,186 @@
 # Breno Garcia da Silva
 
-### Desenvolvedor Backend Java em formação | Analista de Infraestrutura Jr.
+### Backend Developer | Java & Spring Boot
+Analista de Infraestrutura Jr. @ TCS  
+Análise e Desenvolvimento de Sistemas @ FACENS
 
-Sou estudante de Análise e Desenvolvimento de Sistemas na FACENS e atualmente trabalho como Analista de Infraestrutura Júnior na Tata Consultancy Services (TCS).
-
-Tenho experiência em infraestrutura de TI, suporte corporativo, gerenciamento de dispositivos e atendimento de ambientes empresariais.
-
-Atualmente estou direcionando minha carreira para desenvolvimento de software, com foco em **Backend Java, Spring Boot e APIs REST**.
-
----
-
-## 👨‍💻 Sobre mim
-
-- 🎓 Análise e Desenvolvimento de Sistemas — FACENS
-- 💼 Analista de Infraestrutura Júnior — TCS
-- ☕ Foco profissional em Backend Java
-- 🔗 Desenvolvimento de APIs REST
-- 🏗️ Interesse em arquitetura de software e boas práticas
-- 🔄 Em transição de Infraestrutura para Desenvolvimento
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,postgres,mysql,docker,git,github,html,css,js,bootstrap,idea,vscode" />
+</p>
 
 ---
 
-## 🛠️ Tecnologias
+## `$ whoami`
+
+Desenvolvedor Back-end em formação, atualmente atuando como **Analista de Infraestrutura Júnior na Tata Consultancy Services (TCS)**.
+
+Minha experiência profissional em infraestrutura me proporcionou contato com ambientes corporativos, suporte técnico, troubleshooting, gerenciamento de dispositivos e ferramentas como ServiceNow, ITIL, Microsoft Intune, Autopilot e SCCM.
+
+Atualmente estou direcionando minha carreira para **desenvolvimento Back-end**, com foco em **Java, Spring Boot, APIs REST, PostgreSQL e Docker**.
+
+Busco transformar meus estudos em projetos reais e evoluir continuamente em arquitetura, qualidade de código e boas práticas de desenvolvimento.
+
+---
+
+## `> stack`
 
 ### Backend
 
-☕ `Java`  
-🌱 `Spring Boot` `Spring Web` `Spring Data JPA`  
-🔗 `REST APIs`  
-📦 `Maven`
+<p>
+  <img src="https://skillicons.dev/icons?i=java,spring" />
+</p>
 
-### Banco de Dados
+`Java` `Spring Boot` `Spring Data JPA` `Hibernate` `REST APIs` `Maven`
 
-🐘 `PostgreSQL`  
-🐬 `MySQL`  
-🗄️ `H2`  
-📊 `SQL`
+### Database
 
-### DevOps e Ferramentas
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql" />
+</p>
 
-🐳 `Docker`  
-🔧 `Git` `GitHub`  
-📝 `Swagger / OpenAPI`  
-💻 `IntelliJ IDEA` `VS Code`
+`PostgreSQL` `MySQL` `H2` `SQL`
 
-### Arquitetura e Boas Práticas
+### DevOps & Tools
 
-🏗️ `Clean Architecture`  
-🧩 `SOLID`  
-🔵 `POO`  
-🔗 `MVC`  
-🌐 `REST`
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,git,github,idea,vscode" />
+</p>
+
+`Docker` `Docker Compose` `Git` `GitHub` `Swagger / OpenAPI` `IntelliJ IDEA` `VS Code`
 
 ### Frontend
 
-🌐 `HTML` `CSS`  
-⚡ `JavaScript`  
-🎨 `Bootstrap`
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap" />
+</p>
+
+`HTML5` `CSS3` `JavaScript` `Bootstrap`
+
+### Architecture & Practices
+
+`Clean Architecture` `SOLID` `Programação Orientada a Objetos` `MVC` `REST`
 
 ---
 
-## 🚀 Projetos
+## `> projects`
 
-### Recarga Fácil
+### `01` — Recarga Fácil
 
-Projeto acadêmico voltado à criação de uma plataforma para compartilhamento e utilização de carregadores para veículos elétricos.
+Plataforma acadêmica voltada à **localização e utilização de pontos de recarga para veículos elétricos**.
 
-O projeto está sendo desenvolvido com **Java e Spring Boot**, utilizando API REST, persistência de dados, Swagger/OpenAPI e Docker.
+O projeto está sendo desenvolvido com **Java e Spring Boot**, utilizando API REST, Spring Data JPA, documentação através do Swagger/OpenAPI e persistência de dados.
 
-Tecnologias:
+O ambiente de desenvolvimento utiliza **Docker e Docker Compose**, com PostgreSQL utilizado no ambiente de produção.
 
-`Java` `Spring Boot` `Spring Data JPA` `PostgreSQL` `MySQL` `Docker` `Swagger` `Maven`
+**Stack**
 
-Repositório:
+`Java` `Spring Boot` `Spring Data JPA` `PostgreSQL` `MySQL` `Docker` `Docker Compose` `Swagger/OpenAPI` `Maven`
+
+**Repository**
 
 https://github.com/Brenogsilva01/recarga_facil
 
-### ⚡ Medidor de Consumo de Energia
+---
 
-Projeto acadêmico desenvolvido para monitoramento do consumo de energia em tempo real, utilizando conceitos de IoT, automação e sustentabilidade.
+### `02` — Farmácia
 
-### 🌐 Projetos Web
+Sistema desenvolvido em **Java + MySQL** para gerenciamento de dados através de operações CRUD.
 
-Projetos desenvolvidos durante a graduação utilizando:
+**Stack**
 
-`HTML` `CSS` `JavaScript` `Bootstrap`
+`Java` `MySQL` `CRUD`
+
+**Repository**
+
+https://github.com/Brenogsilva01/Farmacia
 
 ---
 
-## 💼 Experiência Profissional
+### `03` — Cadastro de Veículos
 
-### Tata Consultancy Services — Analista de Infraestrutura Jr.
+Aplicação desenvolvida em Java aplicando conceitos de **Programação Orientada a Objetos**.
 
-Atuação em ambiente corporativo de TI, realizando suporte a usuários, gerenciamento e substituição de equipamentos, troubleshooting e atendimento de incidentes e solicitações.
+**Stack**
 
-Principais tecnologias e ferramentas:
+`Java` `POO`
+
+**Repository**
+
+https://github.com/Brenogsilva01/testeprojeto
+
+---
+
+### `04` — Joga.AI
+
+Landing page desenvolvida em equipe como projeto interdisciplinar da FACENS.
+
+**Stack**
+
+`HTML` `CSS`
+
+---
+
+## `> experience`
+
+### Tata Consultancy Services
+
+**Analista de Infraestrutura Jr.**
+
+Atuação em ambiente corporativo de TI, realizando suporte técnico, gerenciamento de dispositivos, troubleshooting e atendimento de incidentes e solicitações.
+
+**Principais tecnologias e ferramentas**
 
 - ServiceNow
 - ITIL
 - Microsoft Intune
+- Microsoft Autopilot
 - SCCM
-- Autopilot
-- Windows
-- Suporte a notebooks, monitores, docks e impressoras
-- Troubleshooting de hardware e software
+- Active Directory
+- Windows 10/11
+- SAP / MB21
+- GlobalProtect
+- Carillon
+- Suporte a impressoras Zebra e Konica Minolta
+- Controle e inventário de ativos
+- Processos de Replacement
 
 ---
 
-## 🎓 Formação
+## `> education`
 
 ### FACENS
 
 **Tecnólogo em Análise e Desenvolvimento de Sistemas**
 
-Em andamento.
+`2025 — Atualmente`
 
 ---
 
-## 📚 Certificações e Estudos
+## `> certifications`
 
-- Generative AI Fundamentals — Databricks Academy
-- Java
-- Spring Boot
-- Clean Architecture
-- SOLID
-- APIs REST
-- Docker
-- Banco de Dados
+### Generative AI Fundamentals
+
+**Databricks Academy**
 
 ---
 
-## 🎯 Objetivo
+## `> currently learning`
 
-Busco oportunidades de **estágio ou posição júnior em desenvolvimento de software**, principalmente como **Backend Java Developer**.
+`Java` `Spring Boot` `Spring Security` `Spring Data JPA`
 
-Meu objetivo é unir a experiência adquirida em infraestrutura com meus conhecimentos em desenvolvimento para construir aplicações e soluções de software.
+`REST APIs` `PostgreSQL` `Docker`
+
+`Clean Architecture` `SOLID` `JUnit` `Mockito`
 
 ---
 
-## 📫 Contato
+## `> career`
 
-💼 LinkedIn: [seu LinkedIn]
-
-🐙 GitHub: https://github.com/Brenogsilva01
+```text
+Infrastructure
+      ↓
+Software Development
+      ↓
+Backend Development
+      ↓
+Java + Spring Boot
