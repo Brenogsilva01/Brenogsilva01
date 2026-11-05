@@ -12,13 +12,11 @@ Análise e Desenvolvimento de Sistemas @ FACENS
 
 ## `$ Sobre`
 
-Desenvolvedor Back-end em formação, atualmente atuando como **Analista de Infraestrutura Júnior na Tata Consultancy Services (TCS)**.
-
-Minha experiência profissional em infraestrutura me proporcionou contato com ambientes corporativos, suporte técnico, troubleshooting, gerenciamento de dispositivos e ferramentas como ServiceNow, ITIL, Microsoft Intune, Autopilot e SCCM.
-
-Atualmente estou direcionando minha carreira para **desenvolvimento Back-end**, com foco em **Java, Spring Boot, APIs REST, PostgreSQL e Docker**.
-
-Busco transformar meus estudos em projetos reais e evoluir continuamente em arquitetura, qualidade de código e boas práticas de desenvolvimento.
+Desenvolvedor back-end júnior em formação (Análise e Desenvolvimento de Sistemas, FACENS), com projetos em
+Java 17 e Spring Boot, API REST documentada com Swagger/OpenAPI, persistência com Spring Data JPA e MySQL,
+e containerização com Docker e Docker Compose. Atuo desde mar/2026 como Analista de Infraestrutura Júnior na
+TCS, em ambiente corporativo com processos ITIL e gestão de incidentes. Busco estágio ou posição júnior em
+desenvolvimento back-end, em formato presencial, híbrido ou remoto
 
 ---
 
