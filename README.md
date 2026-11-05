@@ -10,7 +10,7 @@ Análise e Desenvolvimento de Sistemas @ FACENS
 
 ---
 
-## `$ whoami`
+## `$ Sobre`
 
 Desenvolvedor Back-end em formação, atualmente atuando como **Analista de Infraestrutura Júnior na Tata Consultancy Services (TCS)**.
 
